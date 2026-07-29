@@ -358,11 +358,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
 
-This project is developed using [Google AI Studio](https://ai.google.dev/) and follows its licensing terms.
 
----
 
 ## 🙏 Acknowledgments
 
@@ -377,7 +374,7 @@ This project is developed using [Google AI Studio](https://ai.google.dev/) and f
 <div align="center">
   <strong>Built with ❤️ for developers</strong>
   <br />
-  <a href="https://ai.google.dev/">Google AI Studio</a> •
+
   <a href="https://developer.android.com/kotlin">Kotlin</a> •
   <a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a>
 </div>
