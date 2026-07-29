@@ -17,3 +17,9 @@ local.properties
 .env
 debug.keystore
 release-key.jks
+*.apk
+*.aab
+*.zip
+binaries/
+app/outputs/
+app/build/
