@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="DevForge Banner" width="800" height="auto" />
+  <img src="https://github.com/ZainulabdeenOfficial/Devforge/blob/main/app/src/main/res/drawable/img_app_logo_1785140580033.jpg" alt="DevForge Banner" width="800" height="auto" />
   <h1 align="center">🔥 DevForge</h1>
   <p align="center">
     <strong>All-in-One Mobile Developer Toolkit</strong>
