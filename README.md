@@ -222,24 +222,6 @@ pie title Technology Distribution
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Dashboard</b></td>
-      <td align="center"><b>API Tester</b></td>
-      <td align="center"><b>Code Studio</b></td>
-    </tr>
-    <tr>
-      <td><img src="app/src/test/screenshots/greeting.png" width="200" alt="Dashboard" /></td>
-      <td><img src="binaries/app-debug.apk" width="200" alt="API Tester" /></td>
-      <td><img src="binaries/app-debug.apk" width="200" alt="Code Studio" /></td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 🚦 Getting Started
 
