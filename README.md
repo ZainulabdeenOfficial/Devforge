@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ZainulabdeenOfficial/Devforge/blob/main/app/src/main/res/drawable/img_app_logo_1785140580033.jpg" alt="DevForge Banner" width="800" height="auto" />
-  <h1 align="center">🔥 DevForge</h1>
+  <h1 align="center">DevForge</h1>
   <p align="center">
     <strong>All-in-One Mobile Developer Toolkit</strong>
     <br />
@@ -18,13 +18,13 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 **DevForge** is a comprehensive mobile toolkit designed for developers on the go. It combines an API tester, code editor, JSON tools, regex playground, GitHub explorer, and an AI-powered assistant into one sleek Android application. Whether you're debugging REST APIs, testing regex patterns, exploring GitHub repositories, or learning new technologies, DevForge has you covered.
 
 ---
 
-## 🚀 Features
+## Features
 
 ```mermaid
 mindmap
@@ -36,66 +36,66 @@ mindmap
       Body Types
       cURL Import
       Response Viewer
-    💻 Code Studio
+     Code Studio
       15+ Languages
       Syntax Highlighting
       Find & Replace
       Autocomplete
       Simulated Execution
-    🛠️ Dev Utilities
+     Dev Utilities
       JSON Formatter
       Regex Tester
       Base64 Encode/Decode
       JWT Decoder
       Hash Generator
       Password Generator
-    🐙 GitHub Explorer
+     GitHub Explorer
       Search Repos
       User Profiles
       README Viewer
       ZIP Download
-    🤖 AI Assistant
+     AI Assistant
       Gemini API Chat
       Role Selection
       Code Extraction
       Offline Engine
-    📚 Learning Hub
+    Learning Hub
       REST API Design
       OAuth 2.0 & PKCE
       JWT Security
       Regex Patterns
 ```
 
-### 🔌 REST API Tester
+###  REST API Tester
 Full-featured HTTP client supporting **GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS** methods with:
 - **Authentication**: Bearer token, Basic Auth, API Key, JWT
 - **Body Types**: JSON, XML, Plain Text, Form Data
 - **Features**: Custom headers, query parameters, cURL import, response status/time/size viewer
 
-### 💻 Multi-Language Code Studio
+###  Multi-Language Code Studio
 Code editor with line numbers and syntax highlighting for **15+ languages** including Kotlin, Java, Python, JavaScript, TypeScript, C, C++, C#, Rust, Go, Dart, PHP, Ruby, SQL, and more. Includes find/replace and simulated execution output.
 
-### 🛠️ Developer Utilities
+### Developer Utilities
 - **JSON Tools**: Beautify, minify, and validate JSON
 - **Regex Playground**: Live pattern testing with 10 built-in presets (email, phone, URL, IP, UUID, JWT, etc.)
 - **Encoders**: Base64 encode/decode, JWT token decoder
 - **Generators**: UUID v4, secure passwords, hash (MD5, SHA-1, SHA-256)
 - **Converters**: Unix epoch timestamp converter
 
-### 🐙 GitHub Explorer
+### GitHub Explorer
 - Search public repositories by keyword
 - Browse GitHub user profiles with avatar, bio, and stats
 - View public repositories and README files
 - Download/clone repos as ZIP archives
 
-### 🤖 AI Assistant (Gemini)
+### AI Assistant (Gemini)
 Multi-turn chat powered by **Google Gemini API** with three personas:
 - **General Assistant** – Everyday coding help
 - **Senior Architect** – Advanced architectural guidance
 - **Fast Explainer** – Quick, concise explanations
 - Includes code snippet extraction and offline fallback engine
 
-### 📚 Learning Hub
+### Learning Hub
 Built-in developer tutorials covering:
 - REST API Design Best Practices
 - OAuth 2.0 & PKCE Flow
@@ -104,7 +104,7 @@ Built-in developer tutorials covering:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 graph TB
@@ -195,7 +195,7 @@ sequenceDiagram
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ```mermaid
 pie title Technology Distribution
@@ -223,7 +223,7 @@ pie title Technology Distribution
 ---
 
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -258,13 +258,13 @@ pie title Technology Distribution
 4. **Run the app**
 
    - Select a device/emulator (API 24+)
-   - Click **Run** ▶️
+   - Click **Run** 
 
 > **Note**: If you don't have a Gemini API key, the app will still function for API testing, code tools, GitHub explorer, and utilities — only the AI Assistant requires the key.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 DevForge/
@@ -311,7 +311,7 @@ DevForge/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The project includes:
 - **Unit Tests**: `app/src/test/` – JUnit 5 tests
@@ -327,7 +327,7 @@ Run tests with:
 
 ---
 
-## 🌐 API Reference
+##  API Reference
 
 ### GitHub REST API Endpoints
 
@@ -346,7 +346,7 @@ Run tests with:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -361,7 +361,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Google Gemini API](https://ai.google.dev/) – AI-powered chat capabilities
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) – Modern Android UI toolkit
