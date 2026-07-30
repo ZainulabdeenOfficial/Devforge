@@ -310,6 +310,42 @@ DevForge/
 ```
 
 ---
+#Screenshots
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM.jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(1).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(2).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(3).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(4).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(5).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(6).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(7).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(8).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(9).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(10).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(11).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(12).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(13).jpeg" width="250"/>
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(14).jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/WhatsApp%20Image%202026-07-29%20at%202.10.41%20PM%20(15).jpeg" width="250"/>
+</p>
+
 
 ## Testing
 
